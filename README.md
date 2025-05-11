@@ -1,4 +1,3 @@
-# ANN-Classification-CHURN 
 # Customer Churn Prediction Model
 
 ## Project Overview
