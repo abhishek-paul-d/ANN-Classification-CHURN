@@ -50,6 +50,7 @@ To run the Streamlit web application using Command Prompt (cmd):
 ```cmd
 streamlit run app.py
 ```
+![Screenshot 2025-05-11 234536](https://github.com/user-attachments/assets/76045adc-357e-4542-a88f-8bd5ba9d9242)
 
 The application provides an interactive interface to:
 - Input customer details
