@@ -78,12 +78,6 @@ The ANN model consists of:
 3. Hidden layer (32 neurons, ReLU activation)
 4. Output layer (1 neuron, sigmoid activation)
 
-Trained with:
-- Adam optimizer (learning rate=0.01)
-- Binary crossentropy loss
-- Early stopping callback
-- TensorBoard logging
-
 ## Results
 The model achieves ~86% accuracy on the test set.
 
